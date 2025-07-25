@@ -38,9 +38,9 @@ If you have a better solution, drop an issue or open a pull request. Let’s lea
 
 ## 📬 Connect With Me
 
-* [LinkedIn](#www.linkedin.com/in/sitesh-mishra)
+* [LinkedIn](www.linkedin.com/in/sitesh-mishra)
 
-* [Email](#siteshmishra23gmail.com)
+* [Email](siteshmishra23gmail.com)
 
 ---
 
